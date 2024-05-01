@@ -1,0 +1,22 @@
+{
+  "reviews": [
+    {
+      "review": "bad bag",
+      "id": "24f3"
+    },
+    {
+      "id": "21cc",
+      "name": "rohan",
+      "email": "Cs22106@gmail.com",
+      "review": "kdh",
+      "rating": 4
+    },
+    {
+      "id": "5d4d",
+      "name": "jk",
+      "email": "Cs22106@gmail.com",
+      "review": "hj",
+      "rating": 5
+    }
+  ]
+}
